@@ -1,0 +1,21 @@
+body{
+    font-family: italic;
+    color: white;
+    text-align: center;
+       background-image: url(http://4.bp.blogspot.com/__evv34uhCME/R4Mh4YXZO1I/AAAAAAAAA1w/N9IzKw_Qaw0/s400/Tim_Duncan_SA_Spurs_newest.jpg);
+      background-attachment: fixed;
+      background-size: auto 100%;
+      background-position: center;
+  }
+  
+  p {
+    border: 1px #000000;
+    border-radius: 25px;
+    border-top: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    margin-top: 0;
+    padding: 10px;
+  }
+  
+  
